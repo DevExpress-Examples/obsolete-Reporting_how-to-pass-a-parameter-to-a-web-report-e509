@@ -6,6 +6,9 @@
 * [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
 <!-- default file list end -->
 # How to pass a parameter to a web report
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e509/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how a parameter can be passed to a Web report.</p>
