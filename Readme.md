@@ -4,6 +4,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to pass a parameter to a web report
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e509/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how a parameter can be passed to a Web report.</p>
