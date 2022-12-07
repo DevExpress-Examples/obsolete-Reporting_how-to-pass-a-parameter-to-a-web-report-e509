@@ -35,7 +35,7 @@ namespace PassParameterToWebReport {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxComboBox ASPxComboBox1;
+        protected global::DevExpress.Web.ASPxComboBox ASPxComboBox1;
         
         /// <summary>
         /// ReportToolbar1 control.
