@@ -3,6 +3,9 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E509)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+
+# How to pass a parameter to a web report
+
 ⛔ DEPRECATED. This example was deprecated. Review the following help topics for up-to-date information:
 
 - [Specify Parameter Values](https://docs.devexpress.com/XtraReports/402961/detailed-guide-to-devexpress-reporting/use-report-parameters/specify-parameter-values)
